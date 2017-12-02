@@ -1,0 +1,110 @@
+
+                                                                        RESUME 
+Abhishek Thalla					                      Email:abhishek.thalla@gmail.com
+    			                                                     	         Contact no: +918939527259
+
+
+ Objective  	
+	Aspiring to become a successful professional through a process of learning and to serve the organization that provides competitive and progressive environment and professional skills and there by steering the organization to excellence.
+
+ Awards & Recognition 
+> Oracle Certified Java Professional(OCJP)
+> Cognizant Certified Professional(CCP)  in "Introduction to Managed Healthcare"
+> Young aspirant with a deep passion and high energy level to pursue a successful career by blending skills and knowledge using creative instincts to attain goals of the organization.
+> A systematic, organized and dedicated with an analytical bent of mind, determined to be a part of a growth-oriented organization.
+> Multilingual with proficiency in English, Hindi and Telugu.
+
+
+Experience Summary
+> Having 2 years of experience in end to end development of JAVA applications 
+> Have involved in full SDLC i.e., Analysis, Design, Development and Unit Testing
+> Presently working as Programmer Analyst (PA) in Cognizant.
+> Trained under CAT program at Cognizant in Advance Java and Oracle from May 20th 2011 to September 05th 2011. 
+
+Technical SkillsLanguages		             : Core Java, J2EE,
+J2EE Technologies	             : Spring 2.0, JSP/Servlets, Jfree Chart, Jexcel API
+IDE              		             : RAD 7.5, Eclipse
+RDBMS			: Oracle 11g, SQL, MYSQL
+ORM			             : Hibernate 3.0
+Scripting 		             : HTML, JavaScript
+Web server		             : Apache Tomcat 7.0
+Operating System	             : Windows 98/2000/ XP, Windows 7
+Tools				: Microsoft Sharepoint, Macros FTP, SQL 2008 R2, Bugzilla
+
+Project Details
+
+Project#1:      ACS 5010 Remediation-ACS
+
+Client		ACS an Xerox Company
+Project Title 	ACS 5010 Remediation-ACS
+Module 	278 Transactions – Service Authorization, Referral (HealthCare Domain)
+Designation	Programmer Analyst Trainee
+Role		Developer
+Team Size	4(Developers)
+Environment	RAD, Java5.0, JSP, Hibernate.
+Tenure	              Sep'11 – May’13
+
+
+Project Description: 
+
+       Affiliated Computer Services, Inc. The Group's principal activities are to delivering comprehensive business process outsourcing and information technology services to commercial and government clients. Provide one portal codebase for 5010 UI screens for all 3 states (New Hampshire, North Dakota and Alaska) for 26 5010 MMIS screens (23 external and 3 internal covering 270/271, 276/277, 837 I/P/D and 278 external screens for New Hampshire/Alaska/ North Dakota). All screens to be developed as per the common UIS, mapping/ crosswalk documents created for 5010.Portal and WAS layer changes for New Hampshire, ND and Alaska to have a 5010 unified screen across the states for external screens. Unit Test the code changes done for the 5010 remediation, for both internal and external screens
+
+Responsibilities:
+* Written Business requirement (BR Java classes)
+* Coding, Debugging and written multiple Junit test case for all functionalities.
+* Written Hibernate-Mapping and Queries
+* Unit Test and system test of this module
+Key Strength:
+
+	Involved in the full life cycle of this project and acquired good Technical Knowledge with Business and Functional Knowledge.
+
+Module2: Transaction: 278 Service Authorization 
+
+The 278 Service Authorization transactions is the vehicle for submitting electronic requests for prior authorization for services and is also used in the response. It contains Service Authorization External Screen (Provider Login) and Service Authorization Internal Screen (Internal User login). 
+
+
+
+
+
+
+Responsibilities:
+* Unit Test the code changes done for the 5010 remediation, for both Service Authorization Internal and External screens. 
+* Written Test Cases also.
+
+Project#2:  ACS HIX Pilot
+
+Project Title 	ACS HIX Pilot
+Designation	Programmer Analyst
+Role		Developer
+Team Size	9(Developers)
+Environment	MYSQL, JSP, Spring MVC
+Tenure	             	Aug'12 – Nov’12
+
+Project Description: 
+                    A health insurance exchange is a set of state-regulated and standardized health care plans in the United States, from which individuals may purchase health insurance eligible for federal subsidies. The state Health Exchange is a new transparent and competitive insurance marketplace where individuals and small businesses can buy affordable and qualified health benefit plans. The Exchange offers you a choice of health plans that meet certain benefits and cost standards. The Exchange can also help you find out if you are eligible for health programs or tax credits that make coverage more affordable
+
+Responsibilities:
+* Handled the Database completely
+* Developed JSP pages
+* Worked on Spring MVC
+
+Project:  My BO (Batch owner Selection Portal) 
+
+Project Description: 
+
+       I used JSP, Servlets and Struts framework in Batch Owner Selection Portal, provided logical design for selecting a batch owner based on the other member’s feedback. This feedback Form contains several queries to cover all sorts of criteria to elect a batch Owner. Have evaluated all input controls, respective error messages will be shown to User on the front end. 
+
+Resources used: 
+? JSP & Servlets (MVC 1 Architecture).
+? Oracle Database (Stored Procedures, Triggers, and DQL commands).
+
+
+
+Education and Certifications
+Title of the Degree with Branch
+College/University
+Year of PassingBTech (Bachelor of Technology)
+Avanthi Inst of Engg & Techonlogy, 
+JNTU University, Hyderabad, AP 
+       2010
+
